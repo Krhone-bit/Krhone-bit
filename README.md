@@ -1,4 +1,4 @@
-# Hello there I am Khrone-bit👋
+# Hello there I am Alvaro👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
